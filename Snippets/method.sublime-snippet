@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:void} ${2:methodName}(${3:arguments}) {
+    $0${1/void|(.+)/(?1:\n\treturn null;)/}
+}
+]]></content>
+    <tabTrigger>method</tabTrigger>
+    <scope>source.dart</scope>
+</snippet>

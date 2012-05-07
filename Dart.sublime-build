@@ -1,0 +1,5 @@
+{
+    "cmd": ["/home/adam/dart-sdk/bin/frogc", "$file"],
+    "file_regex": "^(.+\\.dart):(\\d+):(\\d+):.+\\[0m(.+)$",
+    "selector": "source.dart"
+}
