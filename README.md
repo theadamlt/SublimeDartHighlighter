@@ -1,8 +1,8 @@
 Dart Syntax Highlighting
 ============================
+<<<<<<< HEAD
 Sublime Text 2 Dart plugin.
 
-Setup instructions, Linux specific:
 For 64-bit linux, install GNU Standard C++ Library 32 bit:
 	sudo apt-get install lib32stdc++6
 
